@@ -1,3 +1,9 @@
+<style>
+  img {
+    width: 50%;
+  }
+</style>
+
 <img srcset="https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-360.jpg 360w,
              https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-640.jpg 640w,
              https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-920.jpg 920w"
