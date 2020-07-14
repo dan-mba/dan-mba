@@ -1,17 +1,4 @@
-<style>
-  img {
-    width: 50%;
-  }
-</style>
-
-<img srcset="https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-360.jpg 360w,
-             https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-640.jpg 640w,
-             https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-920.jpg 920w"
-     sizes="(max-width: 360px) 360px,
-            (max-width: 640px) 640px,
-            920px"
-     src="https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-920.jpg"
-     alt="Hi, I'm Dan" />
+![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-640.jpg)
 
 <!--
 ### Hi there, I'm Dan 👋
