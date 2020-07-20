@@ -3,7 +3,7 @@
 I am a software engineer with experience with varied programming languages & technologies. 
 I am currently working with languages & technologies for web development and data science.
 
-## Programming Languages & Technologies
+### Programming Languages & Technologies
 
 #### Languages & libraries I am currently using
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" height="20" width="20"> JavaScript
@@ -20,6 +20,7 @@ I am currently working with languages & technologies for web development and dat
 <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" height="20" width="20"> Amazon Web Services
 - <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/LambdaLambdaFunction.png" height="20" width="20"> Lambda
 
+---
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="20" width="20"> LinkedIn</a>
