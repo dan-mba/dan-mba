@@ -3,6 +3,11 @@
 I am a software engineer with experience with varied programming languages & technologies. 
 I am currently working with languages & technologies for web development and data science.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dan-mba&show_icons=true&title_color=006db0&icon_color=006db0" alt="Dan's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mba&hide=C%23&title_color=006db0" alt="Dan's Top Languages">
+</a>
+
 ### Programming Languages & Technologies
 
 #### Languages & libraries I am currently using
