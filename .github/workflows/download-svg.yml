@@ -2,7 +2,7 @@ name: Download SVGs
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -12,8 +12,8 @@ jobs:
     - name: Download 
       run: |
         cd images
-        curl --fail https://github-readme-stats.vercel.app/api?username=dan-mba&show_icons=true&title_color=006db0&icon_color=006db0 -o stats.svg
-        curl --fail https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mba&hide=C%23&title_color=006db0 -o langs.svg
+        curl --fail -o stats.svg https://github-readme-stats.vercel.app/api?username=dan-mba&show_icons=true&title_color=006db0&icon_color=006db0
+        curl --fail -o langs.svg https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mba&hide=C%23&title_color=006db0
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
