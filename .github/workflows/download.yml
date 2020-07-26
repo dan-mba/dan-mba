@@ -19,6 +19,9 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        pwd
+        cd images
+        ls -l
         git add --ignore-errors stats.svg langs.svg
         git diff-index --quiet --cached HEAD || git commit -m "Build Action"
     - name: Push changes
