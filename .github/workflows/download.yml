@@ -1,4 +1,4 @@
-name: Download SVGs
+name: Download SVG files
 
 on:
   schedule:
