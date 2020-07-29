@@ -1,6 +1,6 @@
 ![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-640.jpg)
 
-I am a software engineer with experience with varied programming languages & technologies. 
+I am a software engineer with experience with varied programming languages & technologies.<br><br>
 I am currently working with languages & technologies for web development and data science.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
