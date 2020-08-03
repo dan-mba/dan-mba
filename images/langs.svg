@@ -63,7 +63,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="213.65" 
+            width="219.66" 
             height="8"
             fill="#f1e05a"
           />
@@ -71,9 +71,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="213.65" 
+            x="219.66" 
             y="0"
-            width="54.77" 
+            width="47.38" 
             height="8"
             fill="#e34c26"
           />
@@ -81,9 +81,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="268.42" 
+            x="267.04" 
             y="0"
-            width="16.27" 
+            width="17.51" 
             height="8"
             fill="#2c3e50"
           />
@@ -91,9 +91,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="284.69" 
+            x="284.55" 
             y="0"
-            width="15.32" 
+            width="15.45" 
             height="8"
             fill="#563d7c"
           />
@@ -102,28 +102,28 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 71.22%
+        JavaScript 73.22%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 18.26%
+        HTML 15.79%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#2c3e50" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 5.42%
+        Vue 5.84%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#563d7c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 5.11%
+        CSS 5.15%
       </text>
     </g>
   
