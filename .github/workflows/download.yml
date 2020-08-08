@@ -13,6 +13,7 @@ jobs:
     - name: Download 
       run: |
         cd images
+        chmod +x ../download.sh
         ../download.sh
     - name: Commit files
       run: |
