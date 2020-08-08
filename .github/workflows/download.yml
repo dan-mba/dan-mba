@@ -20,7 +20,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         cd images
-        git add --ignore-errors stats.svg langs.svg
+        git add .
         git diff-index --quiet --cached HEAD || git commit -m "Build Action"
     - name: Push changes
       uses: ad-m/github-push-action@master
