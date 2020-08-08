@@ -3,10 +3,10 @@
 I am a software engineer with experience with varied programming languages & technologies.<br><br>
 I am currently working with languages & technologies for web development and data science.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github.com/dan-mba/dan-mba/raw/master/images/stats.svg" alt="Dan's Github Stats" width="450">
-  <img src="https://github.com/dan-mba/dan-mba/raw/master/images/langs.svg" alt="Dan's Top Languages">
-</a>
+<!-- a href="https://github.com/anuraghazra/github-readme-stats" -->
+  <!-- img align="left" src="https://github.com/dan-mba/dan-mba/raw/master/images/stats.svg" alt="Dan's Github Stats" width="450" -->
+  <!-- img src="https://github.com/dan-mba/dan-mba/raw/master/images/langs.svg" alt="Dan's Top Languages" -->
+<!-- /a -->
 <br><br>
 
 ### Programming Languages & Technologies
