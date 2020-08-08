@@ -15,7 +15,7 @@ jobs:
         cd images
         curl --fail --silent -o stats.svg "https://github-readme-stats.vercel.app/api?username=dan-mba&show_icons=true&title_color=006db0&icon_color=006db0"
         if [ $? -gt 0 ] then true fi
-        curl --silent -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mba&layout=compact&hide=C%23&title_color=006db0"
+        curl --fail --silent -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mba&layout=compact&hide=C%23&title_color=006db0"
         if [ $? -gt 0 ] then true fi
     - name: Commit files
       run: |
