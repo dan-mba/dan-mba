@@ -18,12 +18,12 @@ I am currently working with languages & technologies for web development and dat
 - <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original.svg" height="20" width="20"> Node.js
 
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" height="20" width="20"> Python
-- <img src="https://raw.githubusercontent.com/pallets/flask/master/artwork/logo-lineart.svg" height="19" width="21"> Flask
+- <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/logo-lineart.svg" height="19" width="21"> Flask
 - <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/pandas_mark.svg" height="20" width="15"> Pandas
 - <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16" width="16"> Matplotlib
 
 #### Technologies I am learning
-<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" height="20" width="20"> Amazon Web Services
+<img src="https://avatars0.githubusercontent.com/u/3299148" height="20" width="20"> Amazon Web Services
 - <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/LambdaLambdaFunction.png" height="20" width="20"> Lambda
 
 ---
