@@ -23,7 +23,7 @@ I am currently working with languages & technologies for web development and dat
 - <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16" width="16"> Matplotlib
 
 #### Technologies I am learning
-<img src="https://avatars0.githubusercontent.com/u/3299148" height="20" width="20"> Amazon Web Services
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/AWS-Logo.svg" height="15" width="20"> Amazon Web Services
 - <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/LambdaLambdaFunction.png" height="20" width="20"> Lambda
 
 ---
