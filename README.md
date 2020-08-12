@@ -4,8 +4,8 @@ I am a software engineer with experience with varied programming languages & tec
 I am currently working with languages & technologies for web development and data science.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github.com/dan-mba/dan-mba/raw/master/images/stats.svg" alt="Dan's Github Stats" width="450">
-  <img src="https://github.com/dan-mba/dan-mba/raw/master/images/langs.svg" alt="Dan's Top Languages">
+  <img align="left" src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/stats.svg" alt="Dan's Github Stats" width="450">
+  <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/langs.svg" alt="Dan's Top Languages">
 </a>
 <br><br>
 
@@ -19,7 +19,7 @@ I am currently working with languages & technologies for web development and dat
 
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" height="20" width="20"> Python
 - <img src="https://raw.githubusercontent.com/pallets/flask/master/artwork/logo-lineart.svg" height="19" width="21"> Flask
-- <img src="https://raw.githubusercontent.com/pandas-dev/pandas/master/web/pandas/static/img/pandas_mark.svg" height="20" width="15"> Pandas
+- <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/pandas_mark.svg" height="20" width="15"> Pandas
 - <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16" width="16"> Matplotlib
 
 #### Technologies I am learning
