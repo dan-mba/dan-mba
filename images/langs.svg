@@ -65,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="219.66" 
+            width="217.65" 
             height="8"
             fill="#f1e05a"
           />
@@ -73,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="219.66" 
+            x="217.65" 
             y="0"
-            width="47.38" 
+            width="46.95" 
             height="8"
             fill="#e34c26"
           />
@@ -83,49 +83,49 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="267.04" 
+            x="264.6" 
             y="0"
-            width="17.51" 
+            width="18.05" 
             height="8"
-            fill="#2c3e50"
+            fill="#3572A5"
           />
         
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="284.55" 
+            x="282.65000000000003" 
             y="0"
-            width="15.45" 
+            width="17.35" 
             height="8"
-            fill="#563d7c"
+            fill="#2c3e50"
           />
         
       
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 73.22%
+        JavaScript 72.55%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 15.79%
+        HTML 15.65%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
-      <circle cx="5" cy="6" r="5" fill="#2c3e50" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 5.84%
+        Python 6.02%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
-      <circle cx="5" cy="6" r="5" fill="#563d7c" />
+      <circle cx="5" cy="6" r="5" fill="#2c3e50" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 5.15%
+        Vue 5.78%
       </text>
     </g>
   
