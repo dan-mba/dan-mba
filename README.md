@@ -1,5 +1,7 @@
 ![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-640.jpg)
 
+![Topic Cloud](https://github.com/dan-mba/dan-mba/raw/master/images/cloud.svg)
+
 I am a software engineer with experience with varied programming languages & technologies.<br><br>
 I am currently working with languages & technologies for web development and data science.
 
