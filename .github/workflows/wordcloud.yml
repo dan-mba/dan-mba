@@ -1,0 +1,26 @@
+name: Generate Word cloud
+
+on:
+  workflow_dispatch:
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Generate Word Cloud 
+      uses: dan-mba/repos-topiccloud-action@v0.6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit file
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        mv cloud.svg images
+        cd images
+        git add cloud.svg
+        git diff-index --quiet --cached HEAD || git commit -m "Build Action"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
