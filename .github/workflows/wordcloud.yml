@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  download:
+  make-cloud:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Generate Word Cloud 
-      uses: dan-mba/repos-topiccloud-action@v0.6
+      uses: dan-mba/repos-topiccloud-action@v0.61
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
     - name: Commit file
