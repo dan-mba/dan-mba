@@ -144,7 +144,7 @@
       <text class="stat bold" x="25" y="12.5">Total Stars:</text>
       <text 
         class="stat" 
-        x="200" 
+        x="190" 
         y="12.5" 
         data-testid="stars"
       >0</text>
@@ -159,7 +159,7 @@
       <text class="stat bold" x="25" y="12.5">Total Commits (2020):</text>
       <text 
         class="stat" 
-        x="200" 
+        x="190" 
         y="12.5" 
         data-testid="commits"
       >525</text>
@@ -174,7 +174,7 @@
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
       <text 
         class="stat" 
-        x="200" 
+        x="190" 
         y="12.5" 
         data-testid="prs"
       >67</text>
@@ -189,7 +189,7 @@
       <text class="stat bold" x="25" y="12.5">Total Issues:</text>
       <text 
         class="stat" 
-        x="200" 
+        x="190" 
         y="12.5" 
         data-testid="issues"
       >3</text>
@@ -204,7 +204,7 @@
       <text class="stat bold" x="25" y="12.5">Contributed to:</text>
       <text 
         class="stat" 
-        x="200" 
+        x="190" 
         y="12.5" 
         data-testid="contribs"
       >3</text>
