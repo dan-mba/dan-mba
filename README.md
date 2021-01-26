@@ -3,7 +3,8 @@
 ![Topic Cloud](https://github.com/dan-mba/dan-mba/raw/master/images/cloud.svg)
 
 I am a software engineer with experience with varied programming languages & technologies.<br><br>
-I am currently working with languages & technologies for web development and data science.
+I am currently working with languages & technologies for web development and data science.<br><br>
+I am open to oportunities where my skillset may be a good fit.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/stats.svg" alt="Dan's Github Stats" width="450">
