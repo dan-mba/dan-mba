@@ -9,7 +9,7 @@ then
 fi
 curl --fail --silent \
   -o langs.svg \
-  "https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mba&layout=compact&hide=C%23&theme=tokyonight"
+  "https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mba&layout=compact&exclude_repo=learn-dotnet-mvc&theme=tokyonight"
 langs=$?
 if [ $langs -gt 0 ]
 then
