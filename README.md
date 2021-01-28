@@ -29,6 +29,8 @@ I am open to oportunities where my skillset may be a good fit.
 <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/AWS-Logo.svg" height="15" width="20"> Amazon Web Services
 - <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/LambdaLambdaFunction.png" height="20" width="20"> Lambda
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20" width="20"> TypeScript
+
 ---
 
 ### Connect with me
