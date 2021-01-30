@@ -84,7 +84,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="214.73" 
+            width="214.76" 
             height="8"
             fill="#f1e05a"
           />
@@ -92,7 +92,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="214.73" 
+            x="214.76" 
             y="0"
             width="29.21" 
             height="8"
@@ -102,9 +102,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="243.94" 
+            x="243.97" 
             y="0"
-            width="18.13" 
+            width="18.14" 
             height="8"
             fill="#3572A5"
           />
@@ -112,7 +112,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="262.07" 
+            x="262.11" 
             y="0"
             width="15.90" 
             height="8"
@@ -122,9 +122,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="277.96999999999997" 
+            x="278.01" 
             y="0"
-            width="12.82" 
+            width="12.78" 
             height="8"
             fill="#2b7489"
           />
@@ -143,7 +143,7 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 71.58%
+        JavaScript 71.59%
       </text>
     </g>
   
@@ -157,7 +157,7 @@
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 6.04%
+        Python 6.05%
       </text>
     </g>
   
@@ -171,7 +171,7 @@
     <g transform="translate(0, 75)">
       <circle cx="5" cy="6" r="5" fill="#2b7489" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 4.27%
+        TypeScript 4.26%
       </text>
     </g>
   
