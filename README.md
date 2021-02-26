@@ -12,26 +12,63 @@ I am open to oportunities where my skillset may be a good fit.
 </a>
 <br><br>
 
-### Programming Languages & Technologies
+## Programming Languages & Technologies
 
-#### Languages & libraries I am currently using
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" height="20" width="20"> JavaScript
-- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" height="20" width="20"> React
-- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vuejs/vuejs-original.svg" height="20" width="20"> Vue.js
-- <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original.svg" height="20" width="20"> Node.js
+<table>
+  <tr>
+    <td colspan=4 align="center"><h3><b>Languages & libraries I am currently using</b></h3></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg"    height="16" width="16"> <b>JavaScript</b>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" height="16" width="16"> React
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vuejs/vuejs-original.svg" height="16" width="16"> Vue.js
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original.svg" height="16" width="16"> Node.js
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" height="16" width="16"> <b>Python</b>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/logo-lineart.svg" height="16"   width="16">   Flask
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/pandas_mark.svg" height="16"  width="12">  Pandas
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16"    width="16"> Matplotlib
+    </td>
+  </tr>
+</table>
+<br>
 
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" height="20" width="20"> Python
-- <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/logo-lineart.svg" height="19" width="21"> Flask
-- <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/pandas_mark.svg" height="20" width="15"> Pandas
-- <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16" width="16"> Matplotlib
-
-#### Technologies I am learning
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/AWS-Logo.svg" height="15" width="20"> Amazon Web Services
-- <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/LambdaLambdaFunction.png" height="20" width="20"> Lambda
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="20" width="20"> TypeScript
+<table>
+  <tr>
+    <td colspan=2 align="center"><h3><b>Technologies I am learning</b></h3></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/AWS-Logo.svg" height="15" width="20"> <b>Amazon Web Services</b>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/LambdaLambdaFunction.png" height="16" width="16"> Lambda
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="16" width="16"> <b>TypeScript</b>
+    </td>
+  </tr>
+</table>
+<br>
 
 ---
 
-### Connect with me
-<a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="20" width="20"> LinkedIn</a>
+<h3>Connect with me: <a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="16" width="16"> LinkedIn</a></h3>
