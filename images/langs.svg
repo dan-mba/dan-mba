@@ -84,7 +84,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="195.37" 
+            width="195.35" 
             height="8"
             fill="#f1e05a"
           />
@@ -92,7 +92,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="195.37" 
+            x="195.35" 
             y="0"
             width="34.70" 
             height="8"
@@ -102,7 +102,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="230.07" 
+            x="230.05" 
             y="0"
             width="23.97" 
             height="8"
@@ -112,9 +112,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="254.04" 
+            x="254.02" 
             y="0"
-            width="18.08" 
+            width="18.07" 
             height="8"
             fill="#2c3e50"
           />
@@ -122,9 +122,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="272.12" 
+            x="272.09000000000003" 
             y="0"
-            width="17.03" 
+            width="17.06" 
             height="8"
             fill="#2b7489"
           />
@@ -132,7 +132,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="289.15" 
+            x="289.15000000000003" 
             y="0"
             width="10.85" 
             height="8"
@@ -164,14 +164,14 @@
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#2c3e50" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 6.03%
+        Vue 6.02%
       </text>
     </g>
   
     <g transform="translate(0, 75)">
       <circle cx="5" cy="6" r="5" fill="#2b7489" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 5.68%
+        TypeScript 5.69%
       </text>
     </g>
   
