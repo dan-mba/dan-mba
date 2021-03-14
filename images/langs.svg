@@ -84,7 +84,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="195.35" 
+            width="195.31" 
             height="8"
             fill="#f1e05a"
           />
@@ -92,9 +92,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="195.35" 
+            x="195.31" 
             y="0"
-            width="34.70" 
+            width="34.71" 
             height="8"
             fill="#e34c26"
           />
@@ -102,9 +102,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="230.05" 
+            x="230.02" 
             y="0"
-            width="23.97" 
+            width="23.98" 
             height="8"
             fill="#3572A5"
           />
@@ -112,9 +112,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="254.02" 
+            x="254" 
             y="0"
-            width="18.07" 
+            width="18.08" 
             height="8"
             fill="#2c3e50"
           />
@@ -122,9 +122,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="272.09000000000003" 
+            x="272.08" 
             y="0"
-            width="17.06" 
+            width="17.07" 
             height="8"
             fill="#2b7489"
           />
@@ -132,7 +132,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="289.15000000000003" 
+            x="289.15" 
             y="0"
             width="10.85" 
             height="8"
@@ -143,7 +143,7 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 65.12%
+        JavaScript 65.10%
       </text>
     </g>
   
@@ -164,7 +164,7 @@
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#2c3e50" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 6.02%
+        Vue 6.03%
       </text>
     </g>
   
