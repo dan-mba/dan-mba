@@ -84,7 +84,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="199.76" 
+            width="200.38" 
             height="8"
             fill="#f1e05a"
           />
@@ -92,9 +92,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="199.76" 
+            x="200.38" 
             y="0"
-            width="32.84" 
+            width="32.49" 
             height="8"
             fill="#e34c26"
           />
@@ -102,9 +102,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="232.6" 
+            x="232.87" 
             y="0"
-            width="22.83" 
+            width="22.93" 
             height="8"
             fill="#3572A5"
           />
@@ -112,19 +112,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="255.43" 
+            x="255.8" 
             y="0"
-            width="17.21" 
-            height="8"
-            fill="#2c3e50"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="272.64" 
-            y="0"
-            width="17.02" 
+            width="17.09" 
             height="8"
             fill="#2b7489"
           />
@@ -132,9 +122,19 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="289.65999999999997" 
+            x="272.89" 
             y="0"
-            width="10.33" 
+            width="16.99" 
+            height="8"
+            fill="#2c3e50"
+          />
+        
+          <rect
+            mask="url(#rect-mask)" 
+            data-testid="lang-progress"
+            x="289.88" 
+            y="0"
+            width="10.12" 
             height="8"
             fill="#563d7c"
           />
@@ -143,42 +143,42 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 66.59%
+        JavaScript 66.79%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 10.95%
+        HTML 10.83%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 7.61%
+        Python 7.64%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
-      <circle cx="5" cy="6" r="5" fill="#2c3e50" />
+      <circle cx="5" cy="6" r="5" fill="#2b7489" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 5.74%
+        TypeScript 5.70%
       </text>
     </g>
   
     <g transform="translate(0, 75)">
-      <circle cx="5" cy="6" r="5" fill="#2b7489" />
+      <circle cx="5" cy="6" r="5" fill="#2c3e50" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 5.67%
+        Vue 5.66%
       </text>
     </g>
   
     <g transform="translate(150, 75)">
       <circle cx="5" cy="6" r="5" fill="#563d7c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 3.44%
+        CSS 3.37%
       </text>
     </g>
   
