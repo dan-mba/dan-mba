@@ -16,7 +16,7 @@ I am open to oportunities where my skillset may be a good fit.
 
 <table>
   <tr>
-    <td colspan=4 align="center"><h3><b>Languages & libraries I am currently using</b></h3></td>
+    <td colspan=5 align="center"><h3><b>Languages & libraries I am currently using</b></h3></td>
   </tr>
   <tr>
     <td>
@@ -28,7 +28,7 @@ I am open to oportunities where my skillset may be a good fit.
     <td>
       <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vuejs/vuejs-original.svg" height="16" width="16"> Vue.js
     </td>
-    <td colspan="2">
+    <td colspan=2>
       <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original.svg" height="16" width="16"> Node.js
     </td>
   </tr>
