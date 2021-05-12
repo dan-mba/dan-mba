@@ -20,7 +20,7 @@ I am open to oportunities where my skillset may be a good fit.
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg"    height="16" width="16"> <b>JavaScript</b>
+      <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/javascript/javascript-original.svg" height="16" width="16"> <b>JavaScript</b>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/react/react-original.svg" height="16" width="16"> React
@@ -28,7 +28,7 @@ I am open to oportunities where my skillset may be a good fit.
     <td>
       <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vuejs/vuejs-original.svg" height="16" width="16"> Vue.js
     </td>
-    <td>
+    <td colspan="2">
       <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/nodejs/nodejs-original.svg" height="16" width="16"> Node.js
     </td>
   </tr>
@@ -37,13 +37,16 @@ I am open to oportunities where my skillset may be a good fit.
       <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" height="16" width="16"> <b>Python</b>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/logo-lineart.svg" height="16"   width="16">   Flask
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/logo-lineart.svg" height="16" width="16"> Flask
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/pandas_mark.svg" height="16"  width="12">  Pandas
+      <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/icon-transparent-bg.png" height="16" width="16"> FastAPI
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16"    width="16"> Matplotlib
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/pandas_mark.svg" height="16" width="12"> Pandas
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16" width="16"> Matplotlib
     </td>
   </tr>
 </table>
