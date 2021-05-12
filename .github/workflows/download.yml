@@ -21,7 +21,7 @@ jobs:
         git config --local user.name "GitHub Action"
         cd images
         git add .
-        git diff-index --quiet --cached HEAD || git commit -m "Build Action"
+        git diff-index --quiet --cached HEAD || git commit -m "Image Download"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:

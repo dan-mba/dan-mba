@@ -1,4 +1,4 @@
-![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-640.jpg)
+![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-800.jpg)
 
 ![Topic Cloud](https://github.com/dan-mba/dan-mba/raw/master/images/cloud.svg)
 
