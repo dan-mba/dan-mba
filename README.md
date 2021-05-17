@@ -69,6 +69,11 @@ I am open to oportunities where my skillset may be a good fit.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="16" width="16"> <b>TypeScript</b>
     </td>
   </tr>
+  <tr>
+    <td colspan=2>
+      <img src="https://avatars.githubusercontent.com/u/8908513?s=48&v=4" height="16" width="16"> Cypress
+    </td>
+  </tr>
 </table>
 <br>
 
