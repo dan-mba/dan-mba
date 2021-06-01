@@ -116,7 +116,7 @@
             y="0"
             width="16.89" 
             height="8"
-            fill="#2c3e50"
+            fill="#41b883"
           />
         
           <rect
@@ -162,7 +162,7 @@
     </g>
   
     <g transform="translate(150, 50)">
-      <circle cx="5" cy="6" r="5" fill="#2c3e50" />
+      <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Vue 5.63%
       </text>
