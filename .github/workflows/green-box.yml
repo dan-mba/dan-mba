@@ -1,0 +1,27 @@
+name: Generate Green Box Count
+
+on:
+  workflow_dispatch:
+
+jobs:
+  make-cloud:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Generate Green Box SVG
+      uses: dan-mba/green-box-count@main
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        size: 350
+    - name: Commit file
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        mv green.svg images
+        cd images
+        git add green.svg
+        git diff-index --quiet --cached HEAD || git commit -m "Build Action"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
