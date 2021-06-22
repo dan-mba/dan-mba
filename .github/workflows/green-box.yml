@@ -22,7 +22,7 @@ jobs:
         mv green.svg images
         cd images
         git add green.svg
-        git diff-index --quiet --cached HEAD || git commit -m "Build Action"
+        git diff-index --quiet --cached HEAD || git commit -m "Generate Image"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
