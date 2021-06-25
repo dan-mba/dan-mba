@@ -38,7 +38,7 @@
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
-        undefined
+        
 
         <rect
           data-testid="card-bg"
