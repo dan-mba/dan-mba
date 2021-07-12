@@ -12,9 +12,7 @@
             fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
-          
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-  
+          .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
 
           
     /* Animations */
@@ -75,71 +73,71 @@
           
     <svg data-testid="lang-items" x="25">
       
-      <mask id="rect-mask">
-        <rect x="0" y="0" width="300" height="8" fill="white" rx="5" />
-      </mask>
+    <mask id="rect-mask">
+      <rect x="0" y="0" width="300" height="8" fill="white" rx="5" />
+    </mask>
+    
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="198.72"
+          height="8"
+          fill="#f1e05a"
+        />
       
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="0" 
-            y="0"
-            width="198.72" 
-            height="8"
-            fill="#f1e05a"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="198.72" 
-            y="0"
-            width="32.56" 
-            height="8"
-            fill="#e34c26"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="231.28" 
-            y="0"
-            width="22.25" 
-            height="8"
-            fill="#3572A5"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="253.53" 
-            y="0"
-            width="19.28" 
-            height="8"
-            fill="#2b7489"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="272.81" 
-            y="0"
-            width="16.97" 
-            height="8"
-            fill="#41b883"
-          />
-        
-          <rect
-            mask="url(#rect-mask)" 
-            data-testid="lang-progress"
-            x="289.78" 
-            y="0"
-            width="10.23" 
-            height="8"
-            fill="#563d7c"
-          />
-        
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="198.72"
+          y="0"
+          width="32.56"
+          height="8"
+          fill="#e34c26"
+        />
       
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="231.28"
+          y="0"
+          width="22.25"
+          height="8"
+          fill="#3572A5"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="253.53"
+          y="0"
+          width="19.28"
+          height="8"
+          fill="#2b7489"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="272.81"
+          y="0"
+          width="16.97"
+          height="8"
+          fill="#41b883"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="289.78"
+          y="0"
+          width="10.23"
+          height="8"
+          fill="#563d7c"
+        />
+      
+    
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
@@ -182,7 +180,7 @@
       </text>
     </g>
   
-    
+  
     </svg>
   
         </g>
