@@ -12,7 +12,7 @@ I am open to oportunities where my skillset may be a good fit.
 </a>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/green.svg" alt="Dan's Contribution Streak" width="350">
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/green.svg" alt="Dan's Contribution Streak">
 <br><br>
 
 ## Programming Languages & Technologies
