@@ -54,7 +54,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 116.46441138959753;
+        stroke-dashoffset: 116.459564667926;
       }
     }
   
@@ -193,7 +193,7 @@
         x="190" 
         y="12.5" 
         data-testid="issues"
-      >10</text>
+      >11</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
