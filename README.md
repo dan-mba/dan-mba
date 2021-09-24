@@ -1,10 +1,10 @@
 ![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-800.jpg)
+<br><br>
 
-![Topic Cloud](https://github.com/dan-mba/dan-mba/raw/master/images/cloud.svg)
-
-I am a software engineer with experience with varied programming languages & technologies.<br><br>
-I am currently working with languages & technologies for web development and data science.<br><br>
-I am open to oportunities where my skillset may be a good fit.
+<h3 align="center">I am a software engineer with experience with varied programming languages & technologies.</h3>
+<p align="center">I am currently working with languages & technologies for web development and data science.</p>
+<p align="center">I am open to opportunities where my skill set may be a good fit.</p>
+<br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/stats.svg" alt="Dan's Github Stats" width="450">
@@ -12,10 +12,11 @@ I am open to oportunities where my skillset may be a good fit.
 </a>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/green.svg" alt="Dan's Contribution Streak">
-<br><br>
 
-## Programming Languages & Technologies
+<h1 align="center">Programming Languages & Technologies</h1>
+
+![Topic Cloud](https://github.com/dan-mba/dan-mba/raw/master/images/cloud.svg)
+
 
 <table>
   <tr>
@@ -81,5 +82,8 @@ I am open to oportunities where my skillset may be a good fit.
 <br>
 
 ---
-
+<br>
 <h3>Connect with me: <a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="16" width="16"> LinkedIn</a></h3>
+<br><br>
+
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/green.svg" alt="Dan's Contribution Streak">
