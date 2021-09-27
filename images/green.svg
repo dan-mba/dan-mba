@@ -18,7 +18,7 @@
         }
       </style>
       <rect height="200" width="200" fill="#238636" stroke="#000" stroke-width="5" />
-      <text x="100" y="90" class="days">244</text>
+      <text x="100" y="90" class="days">245</text>
       <text x="100" y="120" class="subtext">consecutive days</text>
       <text x="100" y="145" class="subtext">of contributions</text>
     </svg>
