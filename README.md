@@ -84,6 +84,3 @@
 ---
 <br>
 <h3>Connect with me: <a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="16" width="16"> LinkedIn</a></h3>
-<br><br>
-
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/green.svg" alt="Dan's Contribution Streak">
