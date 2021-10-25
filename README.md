@@ -7,7 +7,7 @@
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/stats.svg" alt="Dan's Github Stats" width="450">
+  <img align="left" src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/stats.svg" alt="Dan's Github Stats" width="430">
   <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/langs.svg" alt="Dan's Top Languages">
 </a>
 <br><br>
