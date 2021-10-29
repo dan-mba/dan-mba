@@ -1,22 +1,18 @@
 ![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-800.jpg)
 <br><br>
 
-<h3 align="center">I am a software engineer with experience with varied programming languages & technologies.</h3>
-<p align="center">I am currently working with languages & technologies for web development and data science.</p>
-<p align="center">I am open to opportunities where my skill set may be a good fit.</p>
+<h3>I am a software engineer with experience with varied programming languages & technologies.</h3>
+<p>I am currently working with languages & technologies for web development and data science.</p>
+<p>I am open to opportunities where my skill set may be a good fit.</p>
 <br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/stats.svg" alt="Dan's Github Stats" width="430">
-  <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/langs.svg" alt="Dan's Top Languages">
-</a>
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/github-metrics.svg" alt="Dan's Github Stats">
+
 <br><br>
 
-
-<h1 align="center">Programming Languages & Technologies</h1>
+<h1>Programming Languages & Technologies</h1>
 
 ![Topic Cloud](https://github.com/dan-mba/dan-mba/raw/master/images/cloud.svg)
-
 
 <table>
   <tr>
