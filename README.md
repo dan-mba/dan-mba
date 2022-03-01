@@ -4,11 +4,7 @@
 <h3>I am a software engineer with experience with varied programming languages & technologies.</h3>
 <p>I am currently working with languages & technologies for web development and data science.</p>
 <p>I am open to opportunities where my skill set may be a good fit.</p>
-<br><br>
-
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/github-metrics.svg" alt="Dan's Github Stats">
-
-<br><br>
+<br>
 
 <h1>Programming Languages & Technologies</h1>
 
@@ -77,6 +73,10 @@
 </table>
 <br>
 
----
 <br>
 <h3>Connect with me: <a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="16" width="16"> LinkedIn</a></h3>
+
+---
+<br>
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/github-metrics.svg" alt="Dan's Github Stats">
+
