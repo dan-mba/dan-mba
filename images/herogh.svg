@@ -21,7 +21,7 @@
   </defs>
   <g>
     <text font-size="72" fill="#fff" style="font-family: 'Source Code Pro';font-weight: bold;">
-      <textPath href="#MyPath" startOffset="152px">Hi, I'm Dan
+      <textPath href="#MyPath" startOffset="-495px">Hi, I'm Dan
         <animate attributeName="startOffset" values="-495px;152px" dur="4s" begin="1000ms" fill="freeze"></animate>
       </textPath>
     </text>
