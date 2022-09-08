@@ -1,4 +1,4 @@
-![Hi, I'm Dan](https://github.com/dan-mba/dan-mba/raw/master/images/github-readme-800.jpg)
+![Hi, I'm Dan](https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/herogh.svg)
 <br><br>
 
 <h3>I am a software engineer with experience with varied programming languages & technologies.</h3>
@@ -8,7 +8,7 @@
 
 <h1>Programming Languages & Technologies</h1>
 
-![Topic Cloud](https://github.com/dan-mba/dan-mba/raw/master/images/cloud.svg)
+![Topic Cloud](https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/cloud.svg)
 
 <table>
   <tr>
