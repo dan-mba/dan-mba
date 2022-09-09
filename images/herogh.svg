@@ -17,12 +17,12 @@
         background-repeat: no-repeat;
       }
     </style>
-    <path id="MyPath" fill="none" stroke="none" d="M0,120 L648,120" />
+    <path id="MyPath" fill="none" stroke="none" d="M152,120 L800,120" />
   </defs>
   <g>
     <text font-size="72" fill="#fff" style="font-family: 'Source Code Pro';font-weight: bold;">
-      <textPath href="#MyPath" startOffset="-495px">Hi, I'm Dan
-        <animate attributeName="startOffset" values="-495px;152px" dur="4s" begin="1000ms" fill="freeze"></animate>
+      <textPath href="#MyPath" startOffset="1145px">Hi, I'm Dan
+        <animate attributeName="startOffset" values="1145px;0" dur="5s" begin="500ms" fill="freeze"></animate>
       </textPath>
     </text>
   </g>
