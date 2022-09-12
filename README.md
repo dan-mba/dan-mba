@@ -1,15 +1,48 @@
-![Hi, I'm Dan](https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/herogh.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/herogh.svg" alt="Hi, I'm Dan">
+</div>
 <br><br>
 
-<h3>I am a software engineer with experience with varied programming languages & technologies.</h3>
-<p>I am currently working with languages & technologies for web development and data science.</p>
-<p>I am open to opportunities where my skill set may be a good fit.</p>
+<h3 align="center">I am a software engineer with experience with varied programming languages & technologies.</h3>
+<p align="center">I am currently working with languages & technologies for web development and data science.</p>
+<p align="center">I am open to opportunities where my skill set may be a good fit.</p>
 <br>
 
-<h1>Programming Languages & Technologies</h1>
+<h1 align="center">Programming Languages & Technologies</h1>
 
-![Topic Cloud](https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/cloud.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/cloud.svg" alt="Topic Cloud">
+</div>
 
+<h2 align="center">Languages & Libraries I Use</h2>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&labelColor=161B22&message=Node.js&color=339933&logo=nodedotjs&logoColor=339933">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&labelColor=161B22&message=React&color=61DAFB&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&labelColor=161B22&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=4FC08D">
+</div>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=Python&labelColor=161B22&message=Flask&color=black&logo=flask&logoColor=white">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=Python&labelColor=161B22&message=FastAPI&color=009688&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=Python&labelColor=161B22&message=Pandas&color=150458&logo=pandas&logoColor=white">
+</div>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=AWS&labelColor=161B22&message=Lambda&color=FF9900&logo=awslambda&logoColor=FF9900">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=AWS&labelColor=161B22&message=API%20Gateway&color=FF4F8B&logo=amazonapigateway&logoColor=FF4F8B">
+</div>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=TypeScript&labelColor=161B22&message=%20&logo=typescript&logoColor=3178C6&color=161B22">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=Cypress&labelColor=161B22&message=%20&logo=cypress&logoColor=white&color=161B22">
+</div>
+
+<!---
 <table>
   <tr>
     <td colspan=5 align="center"><h3><b>Languages & libraries I am currently using</b></h3></td>
@@ -72,11 +105,14 @@
   </tr>
 </table>
 <br>
+--->
 
 <br>
-<h3>Connect with me: <a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="16" width="16"> LinkedIn</a></h3>
+<h3 align="center">Connect with me: <a href="https://www.linkedin.com/in/danburkhardt/"><img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" height="16" width="16"> LinkedIn</a></h3>
 
 ---
 <br>
+<div align="center">
 <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/github-metrics.svg" alt="Dan's Github Stats">
+</div>
 
