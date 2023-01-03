@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/herogh.svg" alt="Hi, I'm Dan">
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/main/images/herogh.svg" alt="Hi, I'm Dan">
 </div>
 <br><br>
 
@@ -11,7 +11,7 @@
 <h1 align="center">Programming Languages & Technologies</h1>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/cloud.svg" alt="Topic Cloud">
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/main/images/cloud.svg" alt="Topic Cloud">
 </div>
 
 <h2 align="center">Languages & Libraries I Use</h2>

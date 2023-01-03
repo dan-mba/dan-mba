@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/herogh.svg" alt="Hi, I'm Dan">
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/main/images/herogh.svg" alt="Hi, I'm Dan">
 </div>
 <br><br>
 
@@ -11,7 +11,7 @@
 <h1 align="center">Programming Languages & Technologies</h1>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/cloud.svg" alt="Topic Cloud">
+<img src="https://raw.githubusercontent.com/dan-mba/dan-mba/main/images/cloud.svg" alt="Topic Cloud">
 </div>
 
 <h2 align="center">Languages & Libraries I Use</h2>
@@ -66,13 +66,13 @@
       <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg" height="16" width="16"> <b>Python</b>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/logo-lineart.svg" height="16" width="16"> Flask
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/main/images/logo-lineart.svg" height="16" width="16"> Flask
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/icon-transparent-bg.png" height="16" width="16"> FastAPI
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/pandas_mark.svg" height="16" width="12"> Pandas
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/main/images/pandas_mark.svg" height="16" width="12"> Pandas
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/icon.png" height="16" width="16"> Matplotlib
@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/master/images/AWS-Logo.svg" height="15" width="20"> <b>Amazon Web Services</b>
+      <img src="https://raw.githubusercontent.com/dan-mba/dan-mba/main/images/AWS-Logo.svg" height="15" width="20"> <b>Amazon Web Services</b>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/LambdaLambdaFunction.png" height="16" width="16"> Lambda
