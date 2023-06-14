@@ -59,7 +59,7 @@
 </a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.cypress.io/favicon.svg" width="36" height="36">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cypress-io/cypress-documentation/main/static/img/logo/cypress-logo-circle-light.png" width="36" height="36">
     <source media="(prefers-color-scheme: light)" srcset="https://www.cypress.io/apple-touch-icon.png" width="36" height="36">
     <img alt="Cypress" src="https://www.cypress.io/apple-touch-icon.png" width="36" height="36">
   </picture>
