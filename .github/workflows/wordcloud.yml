@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Generate Word Cloud 
-      uses: dan-mba/repos-topiccloud-action@master
+      uses: dan-mba/repos-topiccloud-action@main
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
     - name: Commit file
